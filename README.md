@@ -28,7 +28,8 @@
  
  
 <h4>파이썬 코드</h4>
-```
+<p>
+ ```
 import csv
 import matplotlib.pyplot as plt
 
@@ -105,6 +106,7 @@ plt.plot(date3,mandata2,label="Man, search '17inch case'")
 plt.plot(date3,womandata2,label="Woman, search '17inch case'")
 plt.legend()
 plt.show()
+ </p>
 ```
  
 
