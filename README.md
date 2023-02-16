@@ -26,6 +26,9 @@
  남성은 노트북만 구매하는 반면 여성은 노트북과 관련된 상품을 부가적으로 더 구매한다 이러한 점을 보았을때 남성이 좋아할만한 노트북 악세사리의 종류보다는
  여성이 선호할만한 악세사리를 더 많이 노출시키자
  
+![image](https://user-images.githubusercontent.com/122436372/219250405-a5c7118a-50ab-4a8f-8c76-69216f22c4f4.png)
+![image](https://user-images.githubusercontent.com/122436372/219250465-f15d9128-5f96-45e2-ab83-98c0381f51d5.png)
+![image](https://user-images.githubusercontent.com/122436372/219250520-c0961d16-a156-479e-87b0-7c414e3a9f05.png) 
  
 ``` python
 import csv
@@ -108,6 +111,4 @@ plt.show()
  
 
 
-![image](https://user-images.githubusercontent.com/122436372/219250405-a5c7118a-50ab-4a8f-8c76-69216f22c4f4.png)
-![image](https://user-images.githubusercontent.com/122436372/219250465-f15d9128-5f96-45e2-ab83-98c0381f51d5.png)
-![image](https://user-images.githubusercontent.com/122436372/219250520-c0961d16-a156-479e-87b0-7c414e3a9f05.png)
+
